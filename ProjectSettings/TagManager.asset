@@ -53,5 +53,8 @@ TagManager:
   - name: EventBox
     uniqueID: 1109093793
     locked: 0
+  - name: Player
+    uniqueID: 3505900161
+    locked: 0
   m_RenderingLayers:
   - Default
